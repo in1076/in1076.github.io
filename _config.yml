@@ -1,1 +1,9 @@
+title: Fernando Castor's rants
+description: > # this means to ignore newlines until "baseurl:" 
+    The opinions expressed here are the sole responsibility of the author.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fernandocastor.github.io" # the base hostname & protocol for your site
+twitter_username: fernandocastor
+github_username:  fernandocastor
+
 theme: jekyll-theme-hacker
