@@ -6,38 +6,41 @@ A disciplina de Algoritmos 1 tem como público-alvo alunas e alunos dos programa
 
 ---
 
-You can use the [editor on GitHub](https://github.com/in1076/in1076.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/in1076/in1076.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Cronograma da disciplina em 2020.1	
+	
+|**DATA**|	**AULA** | 
+|--------|-------------------------------------------------|
+|10/03/20|	Apresentação do curso |
+|12/03/20|	Python e IDEs. Funções. Operadores aritméticos|
+|17/03/20|	Variáveis e atribuição. Entrada do usuário.|
+|19/03/20|	Comandos condicionais.|
+|24/03/20|	Exercícios|
+|26/03/20|	Tipos de dados básicos|
+|31/03/20|	Operadores lógicos|
+|02/04/20|	Iteração, listas e depuração|
+|07/04/20|	Mais iteração e listas|
+|09/04/20|	*NÃO HAVERÁ AULA*|
+|14/04/20|	Compreensões de listas|
+|16/04/20|	Exercícios|
+|21/04/20|	*NÃO HAVERÁ AULA*|
+|23/04/20|	Ordenação e laços aninhados|
+|28/04/20|	Mais exercícios de iteração|
+|30/04/20|	Mais funções. Testes automatizados|
+|05/05/20|	Revisão para o EE1|
+|07/05/20|	**PRIMEIRO EXERCÍCIO ESCOLAR**|
+|12/05/20|	Introdução à programação orientada a objetos|
+|14/05/20|	Mais sobre objetos e classes|
+|19/05/20|	Herança e inicialização|
+|21/05/20|	Tratamento de erros e construção de programas robustos|
+|26/05/20|	Exercícios|
+|28/05/20|	Arquivos|
+|02/06/20|	Exercícios sobre arquivos|
+|04/06/20|	Especificação do projeto da disciplina|
+|09/06/20|	Recursão|
+|11/06/20|	*NÃO HAVERÁ AULA*|
+|16/06/20|	Exercícios sobre recursão|
+|18/06/20|	A definir|
+|23/06/20|	**APRESENTAÇÃO DO PROJETO**|  
+|25/06/20|	Revisão para o EE2|
+|30/06/20|	**SEGUNDO EXERCÍCIO ESCOLAR**|
+|07/07/20|	PROVA FINAL|
