@@ -4,7 +4,7 @@ title: Cronograma da disciplina
 permalink: https://in1076.github.io/cronograma
 ---
 
-## Cronograma de IN1076 – Algoritmos 1 em 2020.1	
+## Cronograma da disciplina em 2020.1	
 	
 |**DATA**|	**AULA** | 
 |--------|-------------------------------------------------|
