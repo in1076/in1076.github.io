@@ -1,7 +1,7 @@
 title: IN1076 - Algoritmos 1
 description: > # this means to ignore newlines until "baseurl:" 
     Disciplina de introdução à programação do Programa de Pós-Graduação do Centro de Informática da Universidade Federal de Pernambuco
-baseurl: "/20201/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://in1076.github.io" # the base hostname & protocol for your site
 twitter_username: fernandocastor
 github_username:  fernandocastor
