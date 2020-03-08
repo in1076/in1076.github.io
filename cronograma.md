@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cronograma da disciplina 
-permalink: https://in1076.github.io/cronograma
+permalink: https://in1076.github.io/in1076/cronograma
 ---
 
 ## Cronograma da disciplina em 2020.1	
