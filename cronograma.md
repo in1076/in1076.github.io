@@ -1,4 +1,10 @@
-## Programa de IN1076 – Algoritmos 1 em 2020.1	
+---
+layout: page
+title: Cronograma da disciplina 
+permalink: https://in1076.github.io/cronograma
+---
+
+## Cronograma de IN1076 – Algoritmos 1 em 2020.1	
 	
 |**DATA**|	**AULA** | 
 |--------|-------------------------------------------------|
