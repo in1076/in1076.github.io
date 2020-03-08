@@ -1,6 +1,6 @@
 ## Programa de IN1076 – Algoritmos 1 em 2020.1	
 	
-**DATA**	**AULA**
+|**DATA**|	**AULA** | 
 |--------|-------------------------------------------------|
 |10/03/20|	Apresentação do curso |
 |12/03/20|	Python e IDEs. Funções. Operadores aritméticos|
@@ -36,4 +36,3 @@
 |25/06/20|	Revisão para o EE2|
 |30/06/20|	SEGUNDO EXERCÍCIO ESCOLAR|
 |07/07/20|	PROVA FINAL|
-|--------|---------------|
