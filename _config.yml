@@ -1,8 +1,8 @@
-title: Fernando Castor's rants
+title: IN1076 - Algoritmos 1
 description: > # this means to ignore newlines until "baseurl:" 
-    The opinions expressed here are the sole responsibility of the author.
+    Disciplina de Introdução à Programação do Programa de Pós-Graduação do Centro de Informática da Universidade Federal de Pernambuco
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fernandocastor.github.io" # the base hostname & protocol for your site
+url: "http://in1076.github.io" # the base hostname & protocol for your site
 twitter_username: fernandocastor
 github_username:  fernandocastor
 
