@@ -1,3 +1,6 @@
+Isto é um teste. [Cronograma(https://in1076.github.io/cronograma)]
+
+
 ## Bem-vindas(os)
 
 Este é o sítio da disciplina IN1076 - Algoritmos 1, do Programa de Pós-Graduação em Ciência da Computação do Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE). O sítio contém o programa da disciplina, comunicações gerais do professor para os alunos, informações sobre monitoria e avaliação e o cronograma da disciplina.
