@@ -1,4 +1,4 @@
-Isto é um teste. [Cronograma(https://in1076.github.io/cronograma)]
+Isto é um teste. [Cronograma](https://in1076.github.io/cronograma)
 
 
 ## Bem-vindas(os)
