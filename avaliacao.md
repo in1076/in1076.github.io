@@ -3,6 +3,12 @@
 title: Avaliação
 #permalink: https://in1076.github.io/avaliacao
 ---
+[Principal](https://in1076.github.io) [Cronograma](https://in1076.github.io/cronograma) [Aulas](https://in1076.github.io/aulas) [Avaliação](https://in1076.github.io/avaliacao) [Referências](https://in1076.github.io/referencias)
+
+
+**Código do Google Classroom**: tkhccwq
+
+---
 
 ## Avaliação 	
 	

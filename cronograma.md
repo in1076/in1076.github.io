@@ -3,6 +3,12 @@
 title: Cronograma da disciplina
 #permalink: https://in1076.github.io/in1076.github.io/cronograma
 ---
+[Principal](https://in1076.github.io) [Cronograma](https://in1076.github.io/cronograma) [Aulas](https://in1076.github.io/aulas) [Avaliação](https://in1076.github.io/avaliacao) [Referências](https://in1076.github.io/referencias)
+
+
+**Código do Google Classroom**: tkhccwq
+
+---
 
 ## Cronograma da disciplina em 2020.1	
 	
