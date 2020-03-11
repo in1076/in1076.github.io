@@ -1,7 +1,7 @@
 ---
 #layout: page
 title: Referências bibliográficas
-#permalink: https://in1076.github.io/in1076.github.io/cronograma
+#permalink: https://in1076.github.io/in1076.github.io/referencias
 ---
 
 ## Referências
