@@ -1,7 +1,7 @@
-[Principal](https://in1076.github.io) [Cronograma](https://in1076.github.io/cronograma) [Avaliação](https://in1076.github.io/avaliacao)
+[Principal](https://in1076.github.io) [Cronograma](https://in1076.github.io/cronograma) [Avaliação](https://in1076.github.io/avaliacao) [Referências](https://in1076.github.io/referencias)
 
 
-Código do Google Classroom: tkhccwq
+**Código do Google Classroom**: tkhccwq
 
 ---
 Este é o sítio da disciplina IN1076 - Algoritmos 1, do Programa de Pós-Graduação em Ciência da Computação do Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE). O sítio contém o programa da disciplina, comunicações gerais do professor para os alunos, informações sobre monitoria e avaliação e o cronograma da disciplina.
