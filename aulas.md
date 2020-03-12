@@ -16,3 +16,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 
 1. [Introdução à disciplina.](https://drive.google.com/file/d/1JqAaI-GvsIT5ntfEwYHeMgRopqpOZ6Kl/view?usp=sharing)
 2. [Criando seu primeiro programa em Python. IDEs e como Python processa programas.](https://drive.google.com/file/d/1uLEXmc1UZLgcsT72GByyIx1kpWoW8OoP/view?usp=sharing)
+3. [Funções, expressões, parâmetros. Reutilização de código.](https://drive.google.com/file/d/1XtQrdgvNgW3LFe-53UjI96iSQZaLh_Qc/view?usp=sharing)
+   
