@@ -4,6 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 ![image](https://drive.google.com/file/d/1XYnoI527JrnGfuFEHSr0GLNBt-IydoRM/view?usp=sharing)
 
+github:
+  is_project_page: false
 url: "http://in1076.github.io" # the base hostname & protocol for your site
 twitter_username: fernandocastor
 github_username:  fernandocastor
