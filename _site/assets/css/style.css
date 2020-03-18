@@ -61,11 +61,7 @@ header h1:before { content: "   "; font-size: 24px; }
 
 header h2 { font-size: 18px; font-weight: 300; color: #666; }
 
-/*header {
-  display: none;
-}*/
-
-/*#downloads .btn { display: inline-block; text-align: center; margin: 0; }*/
+#downloads .btn { display: inline-block; text-align: center; margin: 0; }
 
 /* Main Content
 */
@@ -126,4 +122,3 @@ a { color: #63c0f5; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 .cf { zoom: 1; }
 
 /*# sourceMappingURL=style.css.map */
-

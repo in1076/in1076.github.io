@@ -1,3 +1,9 @@
+I" <p><a href="https://in1076.github.io">Principal</a> <a href="https://in1076.github.io/cronograma">Cronograma</a> <a href="https://in1076.github.io/aulas">Aulas</a> <a href="https://in1076.github.io/avaliacao">Avaliação</a> <a href="https://in1076.github.io/referencias">Referências</a></p>
+
+<p><strong>Código do Google Classroom</strong>: tkhccwq</p>
+
+<hr />
+
 <h2 id="cronograma-da-disciplina-em-20201">Cronograma da disciplina em 2020.1</h2>
 
 <table>
@@ -18,31 +24,31 @@
     </tr>
     <tr>
       <td>17/03/20</td>
-      <td>Variáveis e atribuição. Entrada do usuário.</td>
+      <td><em>NÃO HAVERÁ AULA</em></td>
     </tr>
     <tr>
       <td>19/03/20</td>
-      <td>Comandos condicionais.</td>
+      <td>Variáveis e atribuição. Entrada do usuário.</td>
     </tr>
     <tr>
       <td>24/03/20</td>
-      <td>Exercícios</td>
+      <td>Comandos condicionais.</td>
     </tr>
     <tr>
       <td>26/03/20</td>
-      <td>Tipos de dados básicos</td>
+      <td>Exercícios</td>
     </tr>
     <tr>
       <td>31/03/20</td>
-      <td>Operadores lógicos</td>
+      <td>Tipos de dados básicos</td>
     </tr>
     <tr>
       <td>02/04/20</td>
-      <td>Iteração, listas e depuração</td>
+      <td>Operadores lógicos</td>
     </tr>
     <tr>
       <td>07/04/20</td>
-      <td>Mais iteração e listas</td>
+      <td>Iteração, listas e depuração</td>
     </tr>
     <tr>
       <td>09/04/20</td>
@@ -50,11 +56,11 @@
     </tr>
     <tr>
       <td>14/04/20</td>
-      <td>Compreensões de listas</td>
+      <td>Mais iteração e listas</td>
     </tr>
     <tr>
       <td>16/04/20</td>
-      <td>Exercícios</td>
+      <td>Compreensões de listas</td>
     </tr>
     <tr>
       <td>21/04/20</td>
@@ -62,59 +68,59 @@
     </tr>
     <tr>
       <td>23/04/20</td>
-      <td>Ordenação e laços aninhados</td>
-    </tr>
-    <tr>
-      <td>28/04/20</td>
-      <td>Mais exercícios de iteração</td>
-    </tr>
-    <tr>
-      <td>30/04/20</td>
-      <td>Mais funções. Testes automatizados</td>
-    </tr>
-    <tr>
-      <td>05/05/20</td>
-      <td>Revisão para o EE1</td>
-    </tr>
-    <tr>
-      <td>07/05/20</td>
-      <td><strong>PRIMEIRO EXERCÍCIO ESCOLAR</strong></td>
-    </tr>
-    <tr>
-      <td>12/05/20</td>
-      <td>Introdução à programação orientada a objetos</td>
-    </tr>
-    <tr>
-      <td>14/05/20</td>
-      <td>Mais sobre objetos e classes</td>
-    </tr>
-    <tr>
-      <td>19/05/20</td>
-      <td>Herança e inicialização</td>
-    </tr>
-    <tr>
-      <td>21/05/20</td>
-      <td>Tratamento de erros e construção de programas robustos</td>
-    </tr>
-    <tr>
-      <td>26/05/20</td>
       <td>Exercícios</td>
     </tr>
     <tr>
+      <td>28/04/20</td>
+      <td>Ordenação e laços aninhados</td>
+    </tr>
+    <tr>
+      <td>30/04/20</td>
+      <td>Mais exercícios de iteração</td>
+    </tr>
+    <tr>
+      <td>05/05/20</td>
+      <td>Mais funções. Testes automatizados</td>
+    </tr>
+    <tr>
+      <td>07/05/20</td>
+      <td>Revisão para o EE1</td>
+    </tr>
+    <tr>
+      <td>12/05/20</td>
+      <td><strong>PRIMEIRO EXERCÍCIO ESCOLAR</strong></td>
+    </tr>
+    <tr>
+      <td>14/05/20</td>
+      <td>Introdução à programação orientada a objetos</td>
+    </tr>
+    <tr>
+      <td>19/05/20</td>
+      <td>Mais sobre objetos e classes</td>
+    </tr>
+    <tr>
+      <td>21/05/20</td>
+      <td>Herança e inicialização</td>
+    </tr>
+    <tr>
+      <td>26/05/20</td>
+      <td>Tratamento de erros e construção de programas robustos</td>
+    </tr>
+    <tr>
       <td>28/05/20</td>
-      <td>Arquivos</td>
+      <td>Exercícios</td>
     </tr>
     <tr>
       <td>02/06/20</td>
-      <td>Exercícios sobre arquivos</td>
+      <td>Arquivos</td>
     </tr>
     <tr>
       <td>04/06/20</td>
-      <td>Especificação do projeto da disciplina</td>
+      <td>Exercícios sobre arquivos</td>
     </tr>
     <tr>
       <td>09/06/20</td>
-      <td>Recursão</td>
+      <td>Especificação do projeto da disciplina</td>
     </tr>
     <tr>
       <td>11/06/20</td>
@@ -122,27 +128,32 @@
     </tr>
     <tr>
       <td>16/06/20</td>
-      <td>Exercícios sobre recursão</td>
+      <td>Recursão</td>
     </tr>
     <tr>
       <td>18/06/20</td>
-      <td>A definir</td>
+      <td>Exercícios sobre recursão</td>
     </tr>
     <tr>
       <td>23/06/20</td>
-      <td><strong>APRESENTAÇÃO DO PROJETO</strong></td>
+      <td>A definir</td>
     </tr>
     <tr>
       <td>25/06/20</td>
+      <td><strong>APRESENTAÇÃO DO PROJETO</strong></td>
+    </tr>
+    <tr>
+      <td>30/07/20</td>
       <td>Revisão para o EE2</td>
     </tr>
     <tr>
-      <td>30/06/20</td>
+      <td>02/07/20</td>
       <td><strong>SEGUNDO EXERCÍCIO ESCOLAR</strong></td>
     </tr>
     <tr>
-      <td>07/07/20</td>
+      <td>09/07/20</td>
       <td>PROVA FINAL</td>
     </tr>
   </tbody>
 </table>
+:ET
