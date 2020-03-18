@@ -1,5 +1,9 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+  header h1:before { content: "   "; font-size: 24px; }
+
+  header h2 { font-size: 18px; font-weight: 300; color: #666; }
+  
+  #downloads .btn { display: none }
 }
