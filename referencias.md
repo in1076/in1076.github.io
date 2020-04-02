@@ -24,6 +24,6 @@ Embora a disciplina não siga de forma direta nenhum livro, o livro que consider
 
 Além dessas referências bibliográficas, há vários bons cursos online de introdução à programação usando Python. Referencio dois abaixo que considero de excelente qualidade, com ótimos professores e bom material:
 
-- Fabio Kon. Introdução à Computação com Python. [Playlist no YouTube](https://www.youtube.com/watch?v=WT_zCgSHSTQ&list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn)
-- Fernando Massanori. Python para Zumbis. [Playlist no YouTube](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+- Fabio Kon. Introdução à Computação com Python.  [Playlist no YouTube](https://www.youtube.com/watch?v=WT_zCgSHSTQ&list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn)
+- Fernando Massanori. Python para Zumbis.  [Playlist no YouTube](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
   
