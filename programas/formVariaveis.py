@@ -7,11 +7,11 @@ def f1():
 def f2(): 
   a = 12
   b = 48
-  print(b / a + 4)
+  print(b // a + 4)
 
 def f3(a): 
   b = a * 5
-  c = b / 2 + 9
+  c = b // 2 + 9
   return c + b - a 
 
 print(f3(4))
@@ -53,12 +53,18 @@ print(resultado)
 
 
 maior = 100
-def f6(x, y): 
+def f9(x, y): 
   maior = x
   if y > x: 
     maior = y
   return maior
 
-print(f6(10, 20))
+print(f9(10, 20))
 print(maior)
 
+def f10(a): 
+  b = a * 5
+  b = b + 1
+  return b
+
+print((f10(4))
