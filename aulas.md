@@ -18,3 +18,4 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 2. [Criando seu primeiro programa em Python. IDEs e como Python processa programas.](https://drive.google.com/file/d/1uLEXmc1UZLgcsT72GByyIx1kpWoW8OoP/view?usp=sharing)
 3. [Funções, expressões, parâmetros. Reutilização de código.](https://drive.google.com/file/d/1XtQrdgvNgW3LFe-53UjI96iSQZaLh_Qc/view?usp=sharing)
 4. [Variáveis e entrada pelo teclado.](https://drive.google.com/file/d/1T4mS23SGBqBRRiwYF3UnprY6ZvL4KZqs/view?usp=sharing)
+5. [Comandos condicionais e expressões](https://drive.google.com/file/d/1rGHlqFzTIoxkLHVflNkAu3KiM1mj5nWE/view?usp=sharing)
