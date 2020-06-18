@@ -20,3 +20,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 4. [Variáveis e entrada pelo teclado.](https://drive.google.com/file/d/1T4mS23SGBqBRRiwYF3UnprY6ZvL4KZqs/view?usp=sharing)
 5. [Comandos condicionais e expressões](https://drive.google.com/file/d/1rGHlqFzTIoxkLHVflNkAu3KiM1mj5nWE/view?usp=sharing)
 6. [Tipos básicos de dados](https://drive.google.com/file/d/1027PR7H51EVMBZSZRzq7g9kXel5FkoDe/view?usp=sharing)
+7. [Mais sobre tipos básicos de dados](https://drive.google.com/file/d/1BOWRt2SiY28-WO9NZYMBepw3U4OEyXNL/view?usp=sharing)
+
