@@ -21,4 +21,4 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 04. [Comandos condicionais e expressões](https://drive.google.com/file/d/1rGHlqFzTIoxkLHVflNkAu3KiM1mj5nWE/view?usp=sharing)
 05. [Tipos básicos de dados](https://drive.google.com/file/d/1027PR7H51EVMBZSZRzq7g9kXel5FkoDe/view?usp=sharing)
 06. [Mais sobre tipos básicos de dados](https://drive.google.com/file/d/1BOWRt2SiY28-WO9NZYMBepw3U4OEyXNL/view?usp=sharing)
-07. [Laços e iteração](https://drive.google.com/file/d/1uj3jF7ydgY35L_8YkijFpMwJMhxhu3IY/view?usp=sharing)
+07. [Laços e iteração](https://drive.google.com/file/d/1dutaH7D1cMAB_wpIlXEkW3-45aY0w5K4/view?usp=sharing)
