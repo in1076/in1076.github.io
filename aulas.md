@@ -22,3 +22,4 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 05. [Tipos básicos de dados](https://drive.google.com/file/d/1027PR7H51EVMBZSZRzq7g9kXel5FkoDe/view?usp=sharing)
 06. [Mais sobre tipos básicos de dados](https://drive.google.com/file/d/1BOWRt2SiY28-WO9NZYMBepw3U4OEyXNL/view?usp=sharing)
 07. [Laços e iteração](https://drive.google.com/file/d/1dutaH7D1cMAB_wpIlXEkW3-45aY0w5K4/view?usp=sharing)
+08. [Listas](https://drive.google.com/file/d/1bFc-3L3uKH9up2dzB18IVMz4-8AUxjnU/view?usp=sharing)
