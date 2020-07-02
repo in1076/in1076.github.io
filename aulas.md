@@ -31,3 +31,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [07]. [Laços e iteração](https://drive.google.com/file/d/1dutaH7D1cMAB_wpIlXEkW3-45aY0w5K4/view?usp=sharing)
 
 [08]. [Listas](https://drive.google.com/file/d/1bFc-3L3uKH9up2dzB18IVMz4-8AUxjnU/view?usp=sharing)
+
+[09]. [Mais listas](https://drive.google.com/file/d/13zilGrQDbFLK2XDDZ36ARh5meV4HRuuB/view?usp=sharing)
