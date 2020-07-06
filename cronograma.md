@@ -25,7 +25,7 @@ title: Cronograma da disciplina
 |23/06/20|	Iteração e repetição de execução e de código|
 |25/06/20|	Exercícios|
 |30/06/20|	Listas e coleções de dados|
-|02/07/20|	Mais iteração e listas|
+|02/07/20|	Como listas são armazenadas na memória|
 |07/07/20|	Iteração quando a posição importa. Repetição ilimitada|
 |09/07/20|	Construindo listas de forma inteligente com compreensões|
 |14/07/20|	*NÃO HAVERÁ AULA*|
