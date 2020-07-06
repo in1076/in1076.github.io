@@ -22,14 +22,14 @@ title: Cronograma da disciplina
 |11/06/20|	*NÃO HAVERÁ AULA* |
 |16/06/20|	Tipos de dados básicos|
 |18/06/20|	Mais sobre tipos básicos|
-|23/06/20|	Iteração, listas e depuração|
+|23/06/20|	Iteração e repetição de execução e de código|
 |25/06/20|	Exercícios|
-|30/06/20|	Mais iteração e listas|
-|02/07/20|	Compreensões de listas|
-|07/07/20|	Exercícios|
-|09/07/20|	Ordenação e laços aninhados|
+|30/06/20|	Listas e coleções de dados|
+|02/07/20|	Mais iteração e listas|
+|07/07/20|	Iteração quando a posição importa. Repetição ilimitada|
+|09/07/20|	Construindo listas de forma inteligente com compreensões|
 |14/07/20|	*NÃO HAVERÁ AULA*|
-|16/07/20|	Mais funções. Testes automatizados|
+|16/07/20|	Mais funções|
 |21/07/20|	Revisão para o EE1|
 |23/07/20|	**PRIMEIRO EXERCÍCIO ESCOLAR**|
 |28/07/20|	Introdução à programação orientada a objetos|
