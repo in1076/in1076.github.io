@@ -11,7 +11,7 @@ title: Cronograma da disciplina
 ---
 
 ## Cronograma da disciplina em 2020.1	
-	
+
 |**DATA**|	**AULA** | 
 |--------|-------------------------------------------------|
 |10/03/20|	Apresentação do curso |

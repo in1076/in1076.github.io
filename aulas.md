@@ -33,3 +33,6 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [08]. [Listas](https://drive.google.com/file/d/1bFc-3L3uKH9up2dzB18IVMz4-8AUxjnU/view?usp=sharing)
 
 [09]. [Mais listas](https://drive.google.com/file/d/13zilGrQDbFLK2XDDZ36ARh5meV4HRuuB/view?usp=sharing)
+
+[10]. [Iteração infinita](https://drive.google.com/file/d/1JpFmIhNQk_sU8yW00ko7LaItuUvQOh7G/view?usp=sharing)
+
