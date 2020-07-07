@@ -28,8 +28,8 @@ title: Cronograma da disciplina
 |02/07/20|	Como listas são armazenadas na memória|
 |07/07/20|	Iteração quando a posição importa. Repetição ilimitada|
 |09/07/20|	Construindo listas de forma inteligente com compreensões|
-|14/07/20|	*NÃO HAVERÁ AULA*|
-|16/07/20|	Mais funções|
+|14/07/20|	Mais funções|
+|16/07/20|	*NÃO HAVERÁ AULA*|
 |21/07/20|	Revisão para o EE1|
 |23/07/20|	**PRIMEIRO EXERCÍCIO ESCOLAR**|
 |28/07/20|	Introdução à programação orientada a objetos|
