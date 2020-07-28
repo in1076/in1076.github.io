@@ -37,3 +37,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [10]. [Iteração infinita](https://drive.google.com/file/d/1JpFmIhNQk_sU8yW00ko7LaItuUvQOh7G/view?usp=sharing)
 
 [11]. [Compreensões de listas](https://drive.google.com/file/d/1BH85Z4l7gDbPhiCjFR98AgQIS1MmGTuJ/view?usp=sharing)
+
+[12]. [Dicionários] (https://drive.google.com/file/d/1E8DdGfGO2i-k1f0wQeCfHSeUrLX_iumo/view?usp=sharing)

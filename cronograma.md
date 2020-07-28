@@ -28,12 +28,12 @@ title: Cronograma da disciplina
 |02/07/20|	Como listas são armazenadas na memória|
 |07/07/20|	Iteração quando a posição importa. Repetição ilimitada|
 |09/07/20|	Construindo listas de forma inteligente com compreensões|
-|14/07/20|	Mais funções|
+|14/07/20|	Exercícios|
 |16/07/20|	*NÃO HAVERÁ AULA*|
 |21/07/20|	Revisão para o EE1|
 |23/07/20|	**PRIMEIRO EXERCÍCIO ESCOLAR**|
-|28/07/20|	Introdução à programação orientada a objetos|
-|30/08/20|	Mais sobre objetos e classes. GUI em Python.|
+|28/07/20|	Dicionários e dados complexos|
+|30/08/20|	Introdução à programação orientada a objetos|
 |04/08/20|	Herança e inicialização|
 |06/08/20|	Tratamento de erros e construção de programas robustos|
 |11/08/20|	Exercícios|
@@ -41,7 +41,7 @@ title: Cronograma da disciplina
 |18/08/20|	Exercícios sobre arquivos|
 |20/08/20|	Especificação do projeto da disciplina|
 |25/08/20|	Recursão|
-|27/09/20|	Exercícios sobre recursão|
+|27/08/20|	Exercícios sobre recursão|
 |01/09/20|	A definir|
 |03/09/20|	A definir|
 |08/09/20|	**APRESENTAÇÃO DO PROJETO**|  
