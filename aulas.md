@@ -41,3 +41,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [12]. [Dicionários](https://drive.google.com/file/d/1E8DdGfGO2i-k1f0wQeCfHSeUrLX_iumo/view?usp=sharing)
 
 [13]. [Programação orientada a objetos](https://drive.google.com/file/d/1kx5JyJYLBcQrzkAtGEHxQoao7XROVWPL/view?usp=sharing)
+
+[14]. [Classes e famílias de objetos](https://drive.google.com/file/d/1XTqIvu8boPONvSD8YgMVXybFduh8wap3/view?usp=sharing)
