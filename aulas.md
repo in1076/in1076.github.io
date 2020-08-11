@@ -43,3 +43,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [13]. [Programação orientada a objetos](https://drive.google.com/file/d/1kx5JyJYLBcQrzkAtGEHxQoao7XROVWPL/view?usp=sharing)
 
 [14]. [Classes e famílias de objetos](https://drive.google.com/file/d/1XTqIvu8boPONvSD8YgMVXybFduh8wap3/view?usp=sharing)
+
+[15]. [Tratamento de erros](https://drive.google.com/file/d/1C7nLVif3W6HfAOYFmpkKY-bEjsj6LUd5/view?usp=sharing)
