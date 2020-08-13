@@ -45,3 +45,7 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [14]. [Classes e famílias de objetos](https://drive.google.com/file/d/1XTqIvu8boPONvSD8YgMVXybFduh8wap3/view?usp=sharing)
 
 [15]. [Tratamento de erros](https://drive.google.com/file/d/1C7nLVif3W6HfAOYFmpkKY-bEjsj6LUd5/view?usp=sharing)
+
+[16]. [Mais sobre tratamento de erros](https://drive.google.com/file/d/15d4eOr7GwI93wWU6-MTCLkqcuFfchOQh/view?usp=sharing)
+
+[17]. [Herança](https://drive.google.com/file/d/1mn87d6ubQxvbWMBqXQ4U7BRmrPJ0bF7F/view?usp=sharing)
