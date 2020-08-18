@@ -44,6 +44,6 @@ title: Cronograma da disciplina
 |27/08/20|	Exercícios sobre recursão|
 |01/09/20|	A definir|
 |03/09/20|	A definir|
-|08/09/20|	**APRESENTAÇÃO DO PROJETO**|  
-|10/09/20|	Revisão para o EE2|
+|08/09/20|	Revisão para o EE2|
+|10/09/20|	**APRESENTAÇÃO DO PROJETO**|  
 |15/09/20|	**SEGUNDO EXERCÍCIO ESCOLAR**|
