@@ -34,11 +34,11 @@ title: Cronograma da disciplina
 |23/07/20|	**PRIMEIRO EXERCÍCIO ESCOLAR**|
 |28/07/20|	Dicionários e dados complexos|
 |30/08/20|	Introdução à programação orientada a objetos|
-|04/08/20|	Herança e inicialização|
-|06/08/20|	Tratamento de erros e construção de programas robustos|
-|11/08/20|	Exercícios|
-|13/08/20|	Arquivos|
-|18/08/20|	Exercícios sobre arquivos|
+|04/08/20|	Classes e famílias de objetos|
+|06/08/20|	Exercícios|
+|11/08/20|	Tratamento de erros e construção de programas robustos|
+|13/08/20|	Mais sobre tratamento de erros. Herança.|
+|18/08/20|	Arquivos|
 |20/08/20|	Especificação do projeto da disciplina|
 |25/08/20|	Recursão|
 |27/08/20|	Exercícios sobre recursão|

@@ -49,3 +49,6 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 [16]. [Mais sobre tratamento de erros](https://drive.google.com/file/d/15d4eOr7GwI93wWU6-MTCLkqcuFfchOQh/view?usp=sharing)
 
 [17]. [Herança](https://drive.google.com/file/d/1mn87d6ubQxvbWMBqXQ4U7BRmrPJ0bF7F/view?usp=sharing)
+
+[18]. [Arquivos. Separando dados e código.](https://drive.google.com/file/d/1JzEHxFj7oASi_RrvfdZ2H3ngF12FTveA/view?usp=sharing) [Arquivo auxiliar](https://drive.google.com/file/d/1t7P1M2wMVcjC4VouhuYJU27BTmk3CN76/view?usp=sharing)
+
