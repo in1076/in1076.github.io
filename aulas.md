@@ -52,3 +52,5 @@ Nesta página é possível encontrar os slides e outros artefatos relativos às 
 
 [18]. [Arquivos. Separando dados e código.](https://drive.google.com/file/d/1JzEHxFj7oASi_RrvfdZ2H3ngF12FTveA/view?usp=sharing) [Arquivo auxiliar](https://drive.google.com/file/d/1t7P1M2wMVcjC4VouhuYJU27BTmk3CN76/view?usp=sharing)
 
+[19]. [Um exemplo mais completo. Um jogo de Trivia com arquivos e GUI. Material no classroom.](https://drive.google.com/open?id=13GWyPsUA1LWhnWJVyrI-qEvA59SdDjj1)
+
